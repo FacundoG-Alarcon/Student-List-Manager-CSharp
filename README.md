@@ -61,3 +61,7 @@ public Alumno(string nombre)
 {
     Nombre = nombre;
 }
+
+AUTOR
+
+Facundo Alarcon.
